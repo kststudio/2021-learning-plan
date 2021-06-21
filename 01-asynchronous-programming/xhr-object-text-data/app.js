@@ -6,7 +6,7 @@ function loadData(){
   const xhr = new XMLHttpRequest();
 
   /* The open method initializes a request which takes in a few params:
-    1. the request method, the url 
+    1. the request method
     2. the url or the file of the data
     3. a boolean value if this should be asynchronous or not. Asynchronous is by default [optional] */
   xhr.open('GET', 'data.txt', true);
