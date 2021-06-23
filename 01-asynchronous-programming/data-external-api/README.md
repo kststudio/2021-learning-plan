@@ -1,0 +1,4 @@
+- Course: Modern JavaScript From The Beginning
+- Instructor: Brad Traversy
+- Section 7: Asynchronous JavaScript, Ajax, and Fetch API
+- Unit 61: Data from an External API - Chuck Norris Project
