@@ -1,0 +1,4 @@
+- Course: Modern JavaScript From The Beginning
+- Instructor: Brad Traversy
+- Section 7: Asynchronous JavaScript, Ajax, and Fetch API
+- Unit 60: Working with Ajax & JSON
